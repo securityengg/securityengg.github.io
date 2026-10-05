@@ -24,7 +24,12 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://securityengg.github.io"
-
+title: Security Engg
+tagline: Threat hunting, SOC, and SIEM notes
+description: >-
+  Practical posts on threat hunting, Microsoft Sentinel, and incident response.
+timezone: Asia/Kolkata
+theme_mode: dark
 github:
   username: SecurityEngg # change to your GitHub username
 
